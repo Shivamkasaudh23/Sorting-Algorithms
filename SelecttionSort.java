@@ -1,6 +1,7 @@
 // Selection Sort :
 //     Basic goal is to repeatedly find the minimum element and putting it at the beginning. 
 
+//Time Complexity: O(n^2)
 public class SelecttionSort {
     public static void main(String[] args) {
         int arr[] = { 64, 25, 12, 22, 11 };
